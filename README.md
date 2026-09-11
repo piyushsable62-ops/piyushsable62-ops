@@ -1,58 +1,133 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm PIYUSH SABLE</h1>
 
-# 👋 Hi, I'm PIYUSH SABLE
+<h3 align="center">
+I'm Piyush Sable, a second-year B.Tech student in Artificial Intelligence and Data Science with a 9.56 CGPA. I'm currently learning Java, Data Structures & Algorithms, Artificial Intelligence, Machine Learning, and Data Science, while building practical projects like AI powered Attendance system and Travel Pulse. I've also been a National-Level Hackathon Finalist and enjoy exploring AI-driven solutions to real-world problems. My goal is to become an AI & Data Science Engineer and build impactful, intelligent applications.
+</h3>
 
-### 🚀 Aspiring AI & Data Science Engineer
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=piyushsable62-ops&label=Profile%20views&color=0e75b6&style=flat" alt="piyushsable62-ops" />
+</p>
 
-🎓 B.Tech in Artificial Intelligence & Data Science  
-📊 First-Year CGPA: **9.56**  
-🏆 National-Level Hackathon Finalist  
-💡 Learning • Building • Exploring AI & Data Science
-
-<p>
-  <a href="https://github.com/piyushsable62-ops">
-    <img src="https://img.shields.io/badge/GitHub-piyushsable62--ops-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/piyush-sable-33a9833a5">
-    <img src="https://img.shields.io/badge/LinkedIn-Piyush%20Sable-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://leetcode.com/u/piyush_004/">
-    <img src="https://img.shields.io/badge/LeetCode-piyush__004-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode">
-  </a>
-  <a href="mailto:piyushsable62@gmail.com">
-    <img src="https://img.shields.io/badge/Email-piyushsable62%40gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="Email">
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=piyushsable62-ops" alt="piyushsable62-ops" />
   </a>
 </p>
 
-</div>
+- 🔭 I’m currently working on **AI-Powered Attendance System.**
 
----
+- 🌱 I’m currently learning **ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING**
 
-## 👨‍💻 About Me
+- 📫 How to reach me **piyushsable62@gmail.com**
 
-I'm a second-year **B.Tech student in Artificial Intelligence and Data Science** with a strong interest in building intelligent, data-driven solutions.
+<h3 align="left">Connect with me:</h3>
 
-I enjoy learning how AI, Machine Learning and Data Science can be applied to solve real-world problems.
+<p align="left">
+<a href="https://linkedin.com/in/piyush-sable-33a9833a5" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/piyush-sable-33a9833a5" height="30" width="40" />
+</a>
 
-- 🎓 B.Tech — Artificial Intelligence & Data Science
-- 📈 First-Year CGPA — **9.56**
-- 🏆 National-Level Hackathon Finalist
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 📊 Exploring Data Science and Data Analytics
-- 💻 Practicing Java and Data Structures & Algorithms
-- 🚀 Building practical AI-powered projects
-- 🎯 Goal: Become an **AI & Data Science Engineer**
+<a href="https://leetcode.com/u/piyush_004/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/piyush_004/" height="30" width="40" />
+</a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
 
-## 🚀 Currently Learning
+<p align="left">
 
-```text
-Java
-Data Structures & Algorithms
-Artificial Intelligence
-Machine Learning
-Data Science
-Python
-SQL
-Git & GitHub
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+</a>
+
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+</a>
+
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+</a>
+
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+</a>
+
+</p>
+
+<!-- ==================== GITHUB STATS ==================== -->
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushsable62-ops&show_icons=true&locale=en&layout=compact"
+    alt="piyushsable62-ops"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=piyushsable62-ops&show_icons=true&locale=en"
+    alt="piyushsable62-ops"
+  />
+</p>
+
+<!-- ==================== CONTRIBUTION STREAK ==================== -->
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=piyushsable62-ops&theme=default&hide_border=false"
+    alt="Piyush Sable Contribution Streak"
+  />
+</p>
+
+<!-- ==================== CONTRIBUTION ACTIVITY ==================== -->
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=piyushsable62-ops&theme=github-compact&hide_border=false"
+    alt="Piyush Sable GitHub Activity Graph"
+  />
+</p>
