@@ -25,6 +25,12 @@ I'm passionate about **Artificial Intelligence, Machine Learning, Data Science, 
 🎯 My goal is to become an **AI & Data Science Engineer** and build impactful intelligent applications.
 
 ---
+## HACKATHONS
+1xHackathon Runner up (1200+ participants)
+SIH Internal round winner
+1xNational level hackathon finalist
+1xNational level hackathon semifinalist
+
 
 ## 🚀 What I'm Currently Doing
 
