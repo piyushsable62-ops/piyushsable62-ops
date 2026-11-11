@@ -26,10 +26,10 @@ I'm passionate about **Artificial Intelligence, Machine Learning, Data Science, 
 
 ---
 ## HACKATHONS
-1xHackathon Runner up (1200+ participants)
-SIH Internal round winner
-1xNational level hackathon finalist
-1xNational level hackathon semifinalist
+ - ** 1xHackathon Runner up (1200+ participants) ** 
+ - **  SIH Internal round winner ** 
+ - ** 1xNational level hackathon finalist ** 
+ - **  1xNational level hackathon semifinalist **
 
 
 ## 🚀 What I'm Currently Doing
